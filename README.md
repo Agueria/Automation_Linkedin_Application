@@ -17,7 +17,7 @@ This Python script uses Selenium to automate the process of applying for jobs on
 1. Clone this repository.
 
     ```bash
-    git clone https://github.com/yourusername/LinkedIn-Job-Application-Bot.git
+    git clone https://github.com/Agueria/Automation_Linkedin_Application.git
     ```
 
 2. Navigate to the project directory.
