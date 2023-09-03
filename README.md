@@ -23,7 +23,7 @@ This Python script uses Selenium to automate the process of applying for jobs on
 2. Navigate to the project directory.
 
     ```bash
-    cd LinkedIn-Job-Application-Bot
+    cd Automation_Linkedin_Application
     ```
 
 3. Install the required Python packages.
